@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+docx2txt
+python-docx
+scikit-learn
